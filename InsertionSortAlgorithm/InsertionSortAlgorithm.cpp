@@ -2,9 +2,12 @@
 using namespace std;
 
 void InsertionSort(int* arr, int size) {
+	int temp;
+	int indexOfSortedArray;
 	for (int i = 1; i < size; i++) {
-		int temp = arr[i];
-		int indexOfSortedArray = i - 1;
+		
+		temp = arr[i];
+		indexOfSortedArray = 1 - 1;
 		
 		while (indexOfSortedArray >= 0 && temp < arr[indexOfSortedArray]) {
 			arr[indexOfSortedArray + 1] = arr[indexOfSortedArray];

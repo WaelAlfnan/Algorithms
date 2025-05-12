@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Algorithms\\InsertionSortAlgorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7173A1E-D2F4-4DB9-B46F-04ED251BBC8F}|InsertionSortAlgorithm.vcxproj|D:\\Algorithms\\InsertionSortAlgorithm\\InsertionSortAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7173A1E-D2F4-4DB9-B46F-04ED251BBC8F}|InsertionSortAlgorithm.vcxproj|solutionrelative:InsertionSortAlgorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertionSortAlgorithm.cpp",
+              "DocumentMoniker": "D:\\Algorithms\\InsertionSortAlgorithm\\InsertionSortAlgorithm.cpp",
+              "RelativeDocumentMoniker": "InsertionSortAlgorithm.cpp",
+              "ToolTip": "D:\\Algorithms\\InsertionSortAlgorithm\\InsertionSortAlgorithm.cpp",
+              "RelativeToolTip": "InsertionSortAlgorithm.cpp",
+              "ViewState": "AgIAAAcAAACAMzMzMzMLwBsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T18:06:25.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

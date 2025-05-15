@@ -5,14 +5,14 @@
         static void Main(string[] args)
         {
             int[] arr = { 4, 2, 1, 6, 0, -5, 14, 3 };
-            selectionSort(arr, arr.Length);
+            selectionSort(arr);
             
             string listOfNumbers = string.Join(",", arr);
 
             Console.WriteLine(listOfNumbers);
         }
 
-        public static void selectionSort(int[] arr, int size)
+        public static void selectionSort(int[] arr)
         {
             int min = 0, temp;
             for (int i = 0; i < arr.Length - 1; i++)

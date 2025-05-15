@@ -27,7 +27,7 @@
                     // Swapping using Tuple Deconstruction in modern C# (C# 7.0+)
                     //(arr[i], arr[min]) = (arr[min], arr[i]);
 
-                    // Swapping using a a Generic Swap Method
+                    // Swapping using a Generic Swap Method
                     Swap(ref arr[i], ref arr[min]);
             }
         }
